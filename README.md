@@ -9,7 +9,7 @@
 
 -----------
 
-| Skills |
+| SKILLS |
 | :--- |
 | Unix |
 | Rigor |
@@ -17,7 +17,7 @@
 
 -------------
 
-| Keywords |
+| KEYWORDS |
 | :--- |
 | Unix Logic |
 
