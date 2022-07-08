@@ -1,4 +1,15 @@
-*I am working on Get Next Line project at 42 Istanbul*
+##Description
+*May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.*
+--------------------
+| Skills |
+| :--- |
+| Unix |
+| Rigor |
+| Algorithms & AI |
+----------------------
+| Keywords |
+| :--- |
+| Unix Logic |
 
 ---------------------
 
